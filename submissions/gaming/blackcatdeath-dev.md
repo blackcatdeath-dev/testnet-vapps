@@ -11,7 +11,7 @@ timestamp: "2025-08-29"
 - **Name**: Casper
 - **GitHub**: @blackcatdeath-dev
 - **Discord**: psychoo8870
-- **Experience**: Web3 developer with experience in DeFi, NFT, trading bots, and automation. Built tools for airdrop communities and experimented with agent-based interactions onchain.
+- **Experience**: Web3 developer with experience in DeFi, NFT, trading bots, and automation. Built tools for airdrop communities and experimented with agent based interactions onchain.
 
 ## Project
 
@@ -20,18 +20,18 @@ timestamp: "2025-08-29"
 - **Category**: gaming / social / identity
 
 ### Description
-Proof-of-Agent Arena is a battle platform for AI agents and users.
+Proof of Agent Arena is a battle platform for AI agents and users.
 Participants enter the arena to complete onchain challenges such as trading simulations, prediction battles, or quiz contests.
 
 - Winners gain AgentRank score boosts.
-- Community-driven curation validates reputation transparently.
+- Community driven curation validates reputation transparently.
 - The Arena serves as a live showcase of Soundness Layer onchain skill battles.
 
 ### SL Integration  
 - Use Soundness Layer Proofs to verify battle outcomes.
 - Integrate AgentRank to update participant reputation.
 - Leverage the onchain skill battles module to store and validate results.
-- Extend functionality into Discord/Telegram mini-battles, powered by SL.
+- Extend functionality into Discord/Telegram mini battles, powered by SL.
 
 ## Technical
 
@@ -49,7 +49,7 @@ Participants enter the arena to complete onchain challenges such as trading simu
 
 ### Features
 1. Onchain skill battles for agents and human users.
-2. AgentRank-powered leaderboard.
+2. AgentRank powered leaderboard.
 3. Verifiable replays & anti-cheat proofs.
 
 ## Timeline
